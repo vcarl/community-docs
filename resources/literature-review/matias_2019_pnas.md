@@ -1,0 +1,23 @@
+# Preventing Harassment and Increasing Group Participation Through Social Norms in 2,190 Online Science Discussions
+
+## Abstract
+
+Theories of human behavior suggest that people's decisions to join a group and their subsequent behavior are influenced by perceptions of what is socially normative. If this is true, communicating norms of prosocial participation could increase group participation and reduce antisocial behavior. I test this theory in a pre-registered field experiment conducted across 2,190 discussions on a public online platform for political discussion of science. In the experiment, a bot posts a message early in a discussion that includes the rules. The experiment varies whether the rules are also accompanied by information about the most common reasons that comments were removed from the platform. Results show that posting the rules led to a 7.4 percentage point increase in newcomer participation (38.1% increase) on average and a decrease in rule-violating behavior by newcomers, compared to discussions where no rules were posted. Adding descriptive norms about the most common removed comments did not have a significant additional effect on either participation or behavior. I discuss these findings in the context of theories about social norms and consider implications for the governance of online communities.
+
+## Link
+
+https://doi.org/10.1073/pnas.1813486116
+
+## AI Summary
+
+J. Nathan Matias conducted a pre-registered field experiment on r/science, a large public subreddit on Reddit dedicated to political discussion of science, to test whether communicating community norms could increase group participation and reduce antisocial behavior. The study spanned 2,190 online discussions and represents one of the most rigorous experimental studies of community rule enforcement in online spaces.
+
+The experimental design involved deploying a bot that posted a message early in each discussion thread. The study used a controlled experimental framework with multiple conditions: some discussions received a bot-posted message containing the community rules, some received the rules along with descriptive norms about the most common reasons comments were removed from the platform, and a control group received no bot message at all. This design allowed Matias to isolate the effects of rule communication from the additional effect of descriptive norm information.
+
+The theoretical grounding for the experiment draws on social norms theory, which posits that people's decisions to join a group and their subsequent behavior within that group are influenced by their perceptions of what is socially normative. The hypothesis was that making community expectations explicit and visible would shift newcomer behavior toward greater compliance and encourage more participation by reducing uncertainty about acceptable conduct.
+
+The results were striking. Posting the community rules led to a 7.4 percentage point increase in newcomer participation, which translates to a 38.1% increase on average compared to discussions where no rules were posted. In addition to boosting participation, the rule-posting intervention also led to a measurable decrease in rule-violating behavior by newcomers. This dual effect is notable because it suggests that norm communication does not merely suppress bad behavior through threat of enforcement, but actively encourages constructive participation.
+
+However, the addition of descriptive norms — information about the most common reasons comments were removed — did not produce a statistically significant additional effect on either participation or behavior beyond what the rules alone achieved. This is an important null finding, as it suggests that the primary mechanism driving behavior change is the communication of expectations themselves, rather than detailed information about enforcement patterns.
+
+The implications of this work are significant for the governance of online communities. The study demonstrates that lightweight interventions — simply making rules visible at the point of participation — can meaningfully shift community dynamics without requiring heavy-handed enforcement or significant moderator effort. This suggests that community managers can achieve substantial improvements in both the quantity and quality of participation through simple, scalable norm-setting mechanisms rather than relying solely on punitive enforcement after violations occur. The pre-registered design and large sample size make this one of the strongest pieces of causal evidence available on the effectiveness of proactive norm communication in online community governance.

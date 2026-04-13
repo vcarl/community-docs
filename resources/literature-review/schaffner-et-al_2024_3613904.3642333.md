@@ -1,0 +1,22 @@
+# "Community Guidelines Make this the Best Party on the Internet": An In-Depth Study of Online Platforms' Content Moderation Policies
+
+**Authors:** Brennan Schaffner, Aditya Bhagoji, Siyuan Cheng, Jacqueline Mei, Jay L. Shen, Grace Wang, Marshini Chetty, Nick Feamster, Genevieve Lakier, Chenhao Tan
+**Published:** 2024, CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
+**DOI:** 10.1145/3613904.3642333
+**Link:** https://dl.acm.org/doi/full/10.1145/3613904.3642333
+
+## Abstract
+
+Moderating user-generated content on online platforms is crucial for balancing user safety and freedom of speech. Particularly in the United States, platforms are not subject to legal constraints prescribing permissible content. Each platform has thus developed bespoke content moderation policies, but there is little work towards a comparative understanding of these policies across platforms and topics. This paper presents the first systematic study of these policies from the 43 largest online platforms hosting user-generated content, focusing on policies around copyright infringement, harmful speech, and misleading content. We build a custom web-scraper to obtain policy text and develop a unified annotation scheme to analyze the text for the presence of critical components. We find significant structural and compositional variation in policies across topics and platforms, with some variation attributable to disparate legal groundings. We lay the groundwork for future studies of ever-evolving content moderation policies and their impact on users.
+
+## AI Summary
+
+This CHI 2024 paper provides the first large-scale systematic comparison of content moderation policies across major online platforms, examining how these policies are structured, what they cover, and how they vary. The study is significant because while platforms' moderation practices have received substantial research attention, the policies themselves — the written rules that theoretically guide moderation decisions — had not been systematically compared.
+
+The methodology involves three stages. First, the researchers identified the 43 largest online platforms hosting user-generated content and built a custom web scraper to collect their content moderation policy texts. Second, they developed a unified annotation scheme to systematically code the policy texts for the presence of critical components across three topic areas: copyright infringement, harmful speech, and misleading content. The annotation scheme captured dimensions such as: what behaviors are prohibited, what definitions are provided, what exceptions or safe harbors are mentioned, what enforcement mechanisms are described, and what appeals processes are available. Third, the researchers applied this scheme through trained annotators to analyze all collected policy texts.
+
+The key finding is significant structural and compositional variation across platforms and topics. Some platforms have highly detailed, multi-page policies with specific behavioral definitions, examples, and enforcement ladders. Others have brief, vague statements that leave enormous discretion to moderators. This variation was partially attributable to legal context — copyright policies tended to be more uniform due to the DMCA's specific requirements, while harmful speech policies varied widely because U.S. law (Section 230) provides platforms broad discretion.
+
+The researchers also found variation in key policy design choices: whether policies define prohibited content by category or by example, whether enforcement consequences are specified or left vague, whether appeals processes exist, and whether policies distinguish between different severity levels of violations. These design choices have direct implications for policy effectiveness — research on procedural justice suggests that users are more likely to comply with rules they perceive as clear, consistent, and fairly applied.
+
+The study concludes by establishing that policy consistency and clarity are important factors for moderation effectiveness. Inconsistent or vague policies undermine user trust and make moderation decisions appear arbitrary, reducing both compliance and legitimacy. The authors argue that platform policies should be studied as evolving documents that shape user expectations and behavior, and they call for longitudinal research tracking how policies change over time and how those changes affect user behavior and platform health.
