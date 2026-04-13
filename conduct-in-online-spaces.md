@@ -13,3 +13,11 @@ Quarantines are weak. They slow recruitment but don't change existing user behav
 Restorative approaches are theoretically promising but empirically untested at scale. [Schoenebeck & Blackwell (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895779) provide the theoretical framework; implementation research is still emerging.
 
 Norms beat punishments for long-term culture. Seering (2019) finds that moderators who engage personally during incidents — rather than relying on automated enforcement — build stronger community norms.
+
+
+
+political conversation is not entirely disallowed, but it must be within these bounds:
+- the Code of Conduct
+  - Speech directed at humans who are not a member of the community do not fall into the same "rudeness" boundaries as speech directed at other members of the community; calling another community member names would be a violation of the code of condut, but it is not necessarily a violation to direct that at a public figure.
+  - Be mindful of what may be considered hate speech.
+- It must follow a logical framework grounded in the present-day reality
